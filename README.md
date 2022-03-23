@@ -16,7 +16,7 @@ Other project resources such as UMLs, Javadoc and test coverage report can be fo
 ### Gruppo AM42
 
 
-- ###   10608961    Andrea Altomare ([@AndreaAltomare](https://github.com/AndreaAltomare))<br>andrea1.altomare@mail.polimi.it
+- ####   10608961    Andrea Altomare ([@AndreaAltomare](https://github.com/AndreaAltomare))<br>andrea1.altomare@mail.polimi.it
 - ###   10631973    Marco Colombi ([@MarcoColombi](https://github.com/MarcoColombi))<br>marco3.colombi@mail.polimi.it
 - ###   10570080    Giorgio Corbetta ([@giocor98](https://github.com/giocor98))<br>giorgio1.corbetta@mail.polimi.it
 
