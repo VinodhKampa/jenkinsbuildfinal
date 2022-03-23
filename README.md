@@ -1,5 +1,5 @@
 ![Grade A+](https://img.shields.io/badge/Grade-A%2B-green?color=009F00)
-# Prova Finale Ingegneria del Software 2020
+## Prova Finale Ingegneria del Software 2020
 ## ing-sw-2020-Altomare-Colombi-Corbetta
 
 This is one of the three project for BSc thesis at **Politecnico di Milano**.  
