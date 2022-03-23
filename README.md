@@ -13,7 +13,7 @@ What we own is the code which we wrote the software with.
 More info about the software design and architecture can be found here: [documentation](Deliverables/Communication_protocol.pdf).  
 Other project resources such as UMLs, Javadoc and test coverage report can be found into **Deliverables** folder.
 
-## Gruppo AM42
+### Gruppo AM42
 
 
 - ###   10608961    Andrea Altomare ([@AndreaAltomare](https://github.com/AndreaAltomare))<br>andrea1.altomare@mail.polimi.it
